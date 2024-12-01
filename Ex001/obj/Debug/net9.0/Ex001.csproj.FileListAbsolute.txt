@@ -1,0 +1,14 @@
+D:\Visual Studio Code\repo\Examples\Ex001\bin\Debug\net9.0\Ex001.exe
+D:\Visual Studio Code\repo\Examples\Ex001\bin\Debug\net9.0\Ex001.deps.json
+D:\Visual Studio Code\repo\Examples\Ex001\bin\Debug\net9.0\Ex001.runtimeconfig.json
+D:\Visual Studio Code\repo\Examples\Ex001\bin\Debug\net9.0\Ex001.dll
+D:\Visual Studio Code\repo\Examples\Ex001\bin\Debug\net9.0\Ex001.pdb
+D:\Visual Studio Code\repo\Examples\Ex001\obj\Debug\net9.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\repo\Examples\Ex001\obj\Debug\net9.0\Ex001.AssemblyInfoInputs.cache
+D:\Visual Studio Code\repo\Examples\Ex001\obj\Debug\net9.0\Ex001.AssemblyInfo.cs
+D:\Visual Studio Code\repo\Examples\Ex001\obj\Debug\net9.0\Ex001.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\repo\Examples\Ex001\obj\Debug\net9.0\Ex001.dll
+D:\Visual Studio Code\repo\Examples\Ex001\obj\Debug\net9.0\refint\Ex001.dll
+D:\Visual Studio Code\repo\Examples\Ex001\obj\Debug\net9.0\Ex001.pdb
+D:\Visual Studio Code\repo\Examples\Ex001\obj\Debug\net9.0\Ex001.genruntimeconfig.cache
+D:\Visual Studio Code\repo\Examples\Ex001\obj\Debug\net9.0\ref\Ex001.dll
